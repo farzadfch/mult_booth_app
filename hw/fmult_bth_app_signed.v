@@ -1,5 +1,4 @@
-//
-// Author:        Farzad Farshchi <farzadfch@yahoo.com>
+// Author:        Farzad Farshchi
 // Date:          Dec 2012
 // Simulator:     ModelSim 6.6
 // Compiler:      Design Compiler C-2009.06-SP5

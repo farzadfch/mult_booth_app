@@ -1,5 +1,4 @@
-%
-% Author:         Farzad Farshchi <farzadfch@yahoo.com>
+% Author:         Farzad Farshchi
 % Date:           Dec 2012
 % Compiler:       MATLAB R2012b
 
